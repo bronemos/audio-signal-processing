@@ -4,8 +4,12 @@ Repository for Audio Signal Processing course 2021-22 @ Aalto
 ## Contents
 
 ### Learning Diaries
-1. [History and Future of Audio Signal Processing](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld1-history/asp-ld2.pdf)
-2. [Digital Filters in Audio](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld2-digital-filters/asp-ld2.pdf)
+1. [History and Future of Audio Signal Processing](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld1-history/ld-1.pdf)
+2. [Digital Filters in Audio](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld2-digital-filters/ld-2.pdf)
+3. [Audio Filter Design](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld3-audio-filter-design/ld-3.pdf)
+4. [Analysis of Audio Signals](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld4-analysis-of-audio-signals/ld-4.pdf)
+5. [Audio Effects Processing](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld5-audio-effects-processing/ld-5.pdf)
 
 ### Homeworks
 2. [Two Band Equaliser Design](https://github.com/bronemos/audio-signal-processing/blob/main/homeworks/hw-2-equaliser-design/eq.ipynb)
+3. [Onset Detection](https://github.com/bronemos/audio-signal-processing/blob/main/homeworks/hw-3-onset-detection/hw-3.pdf)
