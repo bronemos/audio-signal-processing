@@ -9,6 +9,7 @@ Repository for Audio Signal Processing course 2021-22 @ Aalto
 3. [Audio Filter Design](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld3-audio-filter-design/ld-3.pdf)
 4. [Analysis of Audio Signals](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld4-analysis-of-audio-signals/ld-4.pdf)
 5. [Audio Effects Processing](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld5-audio-effects-processing/ld-5.pdf)
+6. [Reverberation and 3-D Sound](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld6-reverberation-and-3d-sound/ld-6.pdf)
 
 ### Homeworks
 2. [Two Band Equaliser Design](https://github.com/bronemos/audio-signal-processing/blob/main/homeworks/hw-2-equaliser-design/eq.ipynb)
