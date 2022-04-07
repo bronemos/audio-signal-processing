@@ -13,7 +13,10 @@ Diary - Implementation:
 6. [Reverberation and 3-D Sound](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld6-reverberation-and-3d-sound/ld-6.pdf) - [Velvet Reverb](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld6-reverberation-and-3d-sound/velvet-reverb.ipynb)
 7. [Synthesis of Audio Signals](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld7-synthesis-of-audio-signals/ld-7.pdf) - [Differentiated Parabolic Wave Algorithm](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld7-synthesis-of-audio-signals/dpw.ipynb)
 8. [Physics Based Sound Synthesis](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld8-physics-based-sound-synthesis/ld-8.pdf) - [Karplus Strong Algorithm](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld8-physics-based-sound-synthesis/karplus-strong.ipynb)
+9. [Sample Rate Conversion](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld9-sample-rate-conversion/ld-9.pdf) - [Downsampling](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld9-sample-rate-conversion/downsampling.ipynb)
+10. [Audio Coding](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld10-audio-coding/ld-10.pdf) - [Polynomial Prediction](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld10-audio-coding/polynomial-prediction.ipynb)
 
 ### Homeworks
 2. [Two Band Equaliser Design](https://github.com/bronemos/audio-signal-processing/blob/main/homeworks/hw-2-equaliser-design/eq.ipynb)
 3. [Onset Detection](https://github.com/bronemos/audio-signal-processing/blob/main/homeworks/hw-3-onset-detection/hw-3.pdf)
+4. [FM Synthesis](https://github.com/bronemos/audio-signal-processing/blob/main/homeworks/hw4-fm-synthesis/hw-4.pdf)
