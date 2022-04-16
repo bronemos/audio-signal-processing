@@ -17,6 +17,6 @@ Diary - Implementation:
 10. [Audio Coding](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld10-audio-coding/ld-10.pdf) - [Polynomial Prediction](https://github.com/bronemos/audio-signal-processing/blob/main/diaries/ld10-audio-coding/polynomial-prediction.ipynb)
 
 ### Homeworks
-2. [Two Band Equaliser Design](https://github.com/bronemos/audio-signal-processing/blob/main/homeworks/hw-2-equaliser-design/eq.ipynb)
-3. [Onset Detection](https://github.com/bronemos/audio-signal-processing/blob/main/homeworks/hw-3-onset-detection/hw-3.pdf)
+2. [Two Band Equaliser Design](https://github.com/bronemos/audio-signal-processing/blob/main/homeworks/hw2-equaliser-design/eq.ipynb)
+3. [Onset Detection](https://github.com/bronemos/audio-signal-processing/blob/main/homeworks/hw3-onset-detection/hw-3.pdf)
 4. [FM Synthesis](https://github.com/bronemos/audio-signal-processing/blob/main/homeworks/hw4-fm-synthesis/hw-4.pdf)
